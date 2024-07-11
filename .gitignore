@@ -1,0 +1,34 @@
+# Large media files
+*.mp4
+*.tiff
+*.avi
+*.flv
+*.mov
+*.wmv
+
+# Data File
+*.csv
+*.pickle
+*.ipynb
+
+
+# virtual environment
+venv/
+myvenv/
+venv1/
+
+
+# local caches
+__pycache__/
+
+# Vscode Config Files
+.vscode/
+
+# Environment Secrets
+.env
+
+# Logs
+*.log
+
+# Database
+db.sqlite3

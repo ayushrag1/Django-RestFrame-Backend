@@ -1,0 +1,33 @@
+# Large media files
+*.mp4
+*.tiff
+*.avi
+*.flv
+*.mov
+*.wmv
+
+# Jupyter Notebook
+*.ipynb
+
+# Data Folder
+data/contracts/
+shared_contracts/
+
+# virtual environment
+venv/
+myvenv/
+venv1/
+
+
+# local caches
+__pycache__/
+
+# Vscode Config Files
+.vscode/
+
+
+# Logs
+*.log
+
+# Database
+db.sqlite3
